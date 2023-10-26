@@ -1,4 +1,6 @@
-# Minimal Random Quote Generator
+# Unlimited Quotes Generator
+
+<a href="https://github.com/AnukarOP"><img src="https://i.ibb.co/kHSshpS/image.png" alt="image" border="0"></a>
 
 This repository contains code for hosting a minimal quote generator website that displays a new quote every 5 seconds. The quotes are fetched from the [quotable API](https://api.quotable.io/). 
 
