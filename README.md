@@ -49,11 +49,23 @@ Once the Streamlit app is running, a random quote will be displayed along with i
 
 The app also features a background image, which can be customized by changing the image URL in the `main()` function.
 
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **Greatly Appreciated**.
+
+1. Fork the Repository 🤝🏻
+2. Star the Repository⭐
+
+## Contact
+🚀 Telegram : [AnukarOP](telegram.me/AnukarOP)
+
+Project Link: [https://github.com/AnukarOP/Multi-CC](https://github.com/AnukarOP/Multi-CC)
+
 ## Credits
 
 This project uses the [quotable API](https://api.quotable.io/), which is a free, open-source API for quotes. || Created by [AnukarOP](https://github.com/AnukarOP)
 
-```If you Really Like this 💖, Please Support me By Starring ⭐ this Repository 👊```
+```Thanks for Your Attention, Towards My Repositroy😃```
   
 
 <p>
