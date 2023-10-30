@@ -61,7 +61,7 @@ Contributions are what make the open source community such an amazing place to l
 ## Contact
 🚀 Telegram : [AnukarOP](telegram.me/AnukarOP)
 
-Project Link: [https://github.com/AnukarOP/Multi-CC](https://github.com/AnukarOP/Multi-CC)
+Project Link: [https://github.com/AnukarOP/Unlimited-Quotes-Generator](https://github.com/AnukarOP/Unlimited-Quotes-Generator)
 
 ## Credits
 
