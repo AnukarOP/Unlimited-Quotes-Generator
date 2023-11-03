@@ -31,7 +31,7 @@ def main():
             countdown_display.text(f"Next quote in {countdown}")
             time.sleep(1) # Wait for 1 second
             countdown -= 1
-        countdown=15
+        countdown=10
         quote, author = fetch_quote()
         quote_display.write(f"<h1>{quote} — {author}</h1>", unsafe_allow_html=True)
 
