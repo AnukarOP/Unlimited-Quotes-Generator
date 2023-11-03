@@ -2,7 +2,7 @@
 
 <a href="https://github.com/AnukarOP"><img src="https://i.ibb.co/kHSshpS/image.png" alt="image" border="0"></a>
 
-This repository contains code for hosting a minimal quote generator website that displays a new quote every 15 seconds. The quotes are fetched from the [quotable API](https://api.quotable.io/). 
+This repository contains code for hosting a minimal quote generator website that displays a new quote every 10 seconds. The quotes are fetched from the [quotable API](https://api.quotable.io/). 
 
 ## Installation
 
