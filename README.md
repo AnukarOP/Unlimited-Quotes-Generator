@@ -45,7 +45,7 @@ streamlit run app.py
 
 ## Usage
 
-Once the Streamlit app is running, a random quote will be displayed along with its author. The quote will change every 5 seconds. 
+Once the Streamlit app is running, a random quote will be displayed along with its author. The quote will change every 10 seconds. 
 
 The app also features a background image, which can be customized by changing the image URL in the `main()` function.
 
